@@ -1,2 +1,2 @@
-# vegyes-
+# vegyes
 gyakorlás
